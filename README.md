@@ -16,7 +16,6 @@
  - github上的awesome Kotlin资源整理汇总： https://github.com/KotlinBy/awesome-kotlin
  - githubwing/GankClient-Kotlin wing写的Gank客户端： https://github.com/githubwing/GankClient-Kotlin
  - 官网给出的更多资源 ： https://kotlinlang.org/docs/resources.html
- - 关于协程的一些介绍：[I exchanged RxJava for coroutines in my Android application. Why you probably should do the same](https://proandroiddev.com/i-exchanged-rxjava-for-coroutines-in-my-android-application-why-you-probably-should-do-the-same-5526dfb38d0e)
  - android develop官网推荐的kotlin学习资源  https://developer.android.com/kotlin/resources
 
 
@@ -50,9 +49,10 @@
 - [有关Kotlin类型别名(typealias)你需要知道的一切](https://juejin.im/post/5b052f806fb9a07ac0229ce3)
 
 
-#### 集合 List Sequence
+#### 讨论List、Sequence、Rxjava在操作数据流时的性能对比分析
 - [Kotlin中是应该使用序列(Sequences)还是集合(Lists)?](https://juejin.im/post/5b13fdace51d450696590828)
 - [Kotlin中的龟(List)兔(Sequence)赛跑](https://juejin.im/post/5b28f4946fb9a00e3a5a9b8c)
+- [Declarative Kotlin: Lists, Sequences and RxJava](https://medium.com/@tpolansk/declarative-kotlin-lists-sequences-and-rxjava-7301da36bc52)
 
 #### Effective Kotlin
 - [Effective Kotlin系列之考虑使用静态工厂方法替代构造器(一)](https://juejin.im/post/5b78f805e51d4538c2108951)
@@ -67,6 +67,10 @@
 #### 代理 delegate
 - [Kotlin的属性代理你真的理解了吗](https://blog.csdn.net/u013064109/article/details/82794410)
 - [Kotlin学习之委托机制](https://blog.csdn.net/u014134488/article/details/51123805)
+
+#### 协程 Kotlin Coroutines
+- [Advanced Kotlin Coroutines tips and tricks - Learn about a few snags and how to get around them](https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1)
+- [I exchanged RxJava for coroutines in my Android application. Why you probably should do the same](https://proandroiddev.com/i-exchanged-rxjava-for-coroutines-in-my-android-application-why-you-probably-should-do-the-same-5526dfb38d0e)
 
 #### 语法成本相关
 
