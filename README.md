@@ -5,7 +5,9 @@
 
 在学习Kotlin语言的过程中，发现了很多不错的学习资源，包括基本语法、一些惯例或者好的用法、RxKotlin、DSL、用Kotlin写gradle脚本、android KTX等等。
 
+有关Kotlin的好文已经越来越多，初学者实在没有必要去自己写一些文档，但是文档的搜集和分类还是要做，所以就有了本篇索引
 
+————————————————————————————————————————————————————
 
  - 官网中文版： https://www.kotlincn.net/docs/reference/
  -  EduTools 一个JetBrains IDEA插件，可以安装完后在File->Browse Courses中搜索Kotlin Koans，包含很多测试题，用来测试自己的语法很好
@@ -30,7 +32,7 @@
  
 - 官网 一些好的惯例：https://kotlinlang.org/docs/reference/idioms.html
 - JakeWharton 大神写的博客 [Android Kotlin Guides] (https://android.github.io/kotlin-guides/)
- - 用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips  https://github.com/heimashi/kotlin_tips
+ - [用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips]( https://github.com/heimashi/kotlin_tips) 
 - [31 天，从浅到深轻松学习 Kotlin](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652046391&idx=1&sn=46efa48076a4533f355af6351b76c012&chksm=808ca472b7fb2d64afc89edf6beba1540e5a6ff49ad6346bd5d72b3957fa5f9323e07b8aab03&mpshare=1&scene=24&srcid=0529N1WlH39WIW7deU1t5Gl1&key=b9d043dd6cb75d29c59a34f21c9ef5f00d6661af000e38b630272a95cf61e10b8e4d27e81d9a0f512c5ce2d0330c7550dc0f0035d988d8eb7b68cd53e1dc104a23d5297459068a5fe44e35f6f370a829&ascene=0&uin=MzE4NzMxMTM1&devicetype=iMac+MacBookPro13%2C3+OSX+OSX+10.13.3+build(17D47)&version=12020510&nettype=WIFI&lang=ko&fontScale=100&pass_ticket=FaGLTv1uvlqk1nYxnoFqbLSHDIdr3lGMbYWugIHF9KqwF9ljdGLA7hYQOMaMAF2w)
 
 - [6个能让你的 Kotlin 代码库更有意思的“魔法糖” —— 第一部分](https://www.oschina.net/translate/6-magic-sugars-make-your-kotlin-codebase-happier-part-1)
@@ -77,9 +79,9 @@
 #### Kotlin DSL相关
 -  [Kotlin 中的领域特定语言](https://www.oschina.net/translate/creating-dsl-with-kotlin)
 
--  Gradle Kotlin DSL https://github.com/gradle/kotlin-ds 
+-  [Gradle Kotlin DSL](https://github.com/gradle/kotlin-ds)
 
--  Kotlin language support for Gradle build scripts   https://blog.gradle.org/kotlin-meets-gradle
+-  [Kotlin language support for Gradle build scripts](https://blog.gradle.org/kotlin-meets-gradle)
 
 #### 其他博客
 - Android Weekly上也经常会有一些好的博客，发现主要来自于网站[medium.com](medium.com) ，英语好的可以直接在该博客上搜索
