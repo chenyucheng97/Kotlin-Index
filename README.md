@@ -18,6 +18,8 @@
  - 官网给出的更多资源 ： https://kotlinlang.org/docs/resources.html
  - android develop官网推荐的kotlin学习资源  https://developer.android.com/kotlin/resources
 
+&nbsp;
+&nbsp;
 
 
 
@@ -25,7 +27,7 @@
 
 ### 感觉一些写的不错的博客：
 
- 
+ &nbsp;
 
 #### 语法相关
  
@@ -39,21 +41,24 @@
 - https://medium.com/grand-parade/6-magic-sugars-that-can-make-your-kotlin-codebase-happier-part-3-6319a451cd5d
 - [Kotlin —  最佳实践](https://www.jianshu.com/p/b9cba3aa8f8a)
 
+&nbsp;
 #### inline reified Generic
 - [Kotlin的独门秘籍Reified实化类型参数(上篇)](https://juejin.im/post/5bd1d590518825288b398f46)
 - [Kotlin的独门秘籍Reified实化类型参数(下篇)](https://juejin.im/post/5bd45ae16fb9a05d2a1db51b)
 - [Kotlin泛型中何时该用类型形参约束?](https://juejin.im/post/5bceb5915188255c6b654cec)
 
-
+&nbsp;
 #### typealias 
 - [有关Kotlin类型别名(typealias)你需要知道的一切](https://juejin.im/post/5b052f806fb9a07ac0229ce3)
 
-
+&nbsp;
 #### 讨论List、Sequence、Rxjava在操作数据流时的性能对比分析
 - [Kotlin中是应该使用序列(Sequences)还是集合(Lists)?](https://juejin.im/post/5b13fdace51d450696590828)
 - [Kotlin中的龟(List)兔(Sequence)赛跑](https://juejin.im/post/5b28f4946fb9a00e3a5a9b8c)
 - [Declarative Kotlin: Lists, Sequences and RxJava](https://medium.com/@tpolansk/declarative-kotlin-lists-sequences-and-rxjava-7301da36bc52)
 
+&nbsp;
+&nbsp;
 #### Effective Kotlin
 ##### 当我们遇到构造器中有很多参数的时，我都会考虑使用Builder模式来替代它。当然这只是Java中常见操作，但是Kotlin是不是得按部就班照着Java来呢？显然不是，Kotlin中有着更为优雅和强大的实现方式构造器+默认值参数，或者尝试下一代的Builder模式-DSL
 - [Effective Kotlin系列之考虑使用静态工厂方法替代构造器(一)](https://juejin.im/post/5b78f805e51d4538c2108951)
@@ -63,18 +68,22 @@
 - [Kotlin中是应该定义函数还是定义属性?](https://juejin.im/post/5afc23446fb9a07ab979abdf)
 - [如何在你的Kotlin代码中移除所有的!!(非空断言)](https://juejin.im/post/5afd9090f265da0ba46a0429)
 
+&nbsp;&nbsp;
 #### 标准库函数 standard.kt
 - [掌握Kotlin中的标准库函数: run、with、let、also和apply](https://juejin.im/post/5b0048ed518825428a2619ed)
 - [Kotlin系列之let、with、run、apply、also函数的使用](https://blog.csdn.net/u013064109/article/details/78786646)
 
+&nbsp;&nbsp;
 #### 代理 delegate
 - [Kotlin的属性代理你真的理解了吗](https://blog.csdn.net/u013064109/article/details/82794410)
 - [Kotlin学习之委托机制](https://blog.csdn.net/u014134488/article/details/51123805)
 
+&nbsp;&nbsp;
 #### 协程 Kotlin Coroutines
 - [Advanced Kotlin Coroutines tips and tricks - Learn about a few snags and how to get around them](https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1)
 - [I exchanged RxJava for coroutines in my Android application. Why you probably should do the same](https://proandroiddev.com/i-exchanged-rxjava-for-coroutines-in-my-android-application-why-you-probably-should-do-the-same-5526dfb38d0e)
 
+&nbsp;&nbsp;
 #### 语法成本相关
 
 -  [探索 Kotlin 的隐性成本（Part 1）](https://www.oschina.net/translate/exploring-kotlins-hidden-costs-part-1) 
@@ -83,6 +92,7 @@
 
 -  [探索 Kotlin 的隐性成本（Part 3）](https://www.oschina.net/translate/exploring-kotlins-hidden-costs-part-3) 
 
+&nbsp;&nbsp;
 #### Kotlin DSL相关
 -  [Kotlin 中的领域特定语言](https://www.oschina.net/translate/creating-dsl-with-kotlin)
 
@@ -90,6 +100,7 @@
 
 -  [Kotlin language support for Gradle build scripts](https://blog.gradle.org/kotlin-meets-gradle)
 
+&nbsp;&nbsp;
 #### 其他博客
 - Android Weekly上也经常会有一些好的博客，发现主要来自于网站[medium.com](medium.com) ，英语好的可以直接在该博客上搜索
 
