@@ -55,8 +55,11 @@
 - [Declarative Kotlin: Lists, Sequences and RxJava](https://medium.com/@tpolansk/declarative-kotlin-lists-sequences-and-rxjava-7301da36bc52)
 
 #### Effective Kotlin
+##### 当我们遇到构造器中有很多参数的时，我都会考虑使用Builder模式来替代它。当然这只是Java中常见操作，但是Kotlin是不是得按部就班照着Java来呢？显然不是，Kotlin中有着更为优雅和强大的实现方式构造器+默认值参数，或者尝试下一代的Builder模式-DSL
 - [Effective Kotlin系列之考虑使用静态工厂方法替代构造器(一)](https://juejin.im/post/5b78f805e51d4538c2108951)
 - [Effective Kotlin系列之遇到多个构造器参数要考虑使用构建器(二)](https://juejin.im/post/5b8698bce51d4538a423dd70)
+
+&nbsp;
 - [Kotlin中是应该定义函数还是定义属性?](https://juejin.im/post/5afc23446fb9a07ab979abdf)
 - [如何在你的Kotlin代码中移除所有的!!(非空断言)](https://juejin.im/post/5afd9090f265da0ba46a0429)
 
