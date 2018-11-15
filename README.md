@@ -42,6 +42,13 @@
 - [Kotlin —  最佳实践](https://www.jianshu.com/p/b9cba3aa8f8a)
 
 &nbsp;
+#### 注解
+- [官网对于注解的解释](https://www.kotlincn.net/docs/reference/annotations.html)
+- [Kotlin学习笔记——注解](https://blog.csdn.net/hjkcghjmguyy/article/details/73931877)
+
+
+
+&nbsp;
 #### inline reified Generic
 - [Kotlin的独门秘籍Reified实化类型参数(上篇)](https://juejin.im/post/5bd1d590518825288b398f46)
 - [Kotlin的独门秘籍Reified实化类型参数(下篇)](https://juejin.im/post/5bd45ae16fb9a05d2a1db51b)
