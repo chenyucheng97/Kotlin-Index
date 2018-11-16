@@ -51,7 +51,6 @@
 - [Android快速转战Kotlin教程](https://blog.csdn.net/github_33304260/article/details/80343514)
 包含作者整理的一些常用设计模式的Kotlin实现，一些开源的app，一些推荐的书籍，一些推荐的博客。
 
-#### 设计模式
 - [https://github.com/dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 DariuszBaciński 创建了一个 GitHub repo，其中有在 Kotlin 中实现的常见设计模式，也有用其他语言编写的类似项目，包括 Java，Swift，Java 和 PHP，如果你是其中一项语言的使用者，可以用它们作为参考点
 
