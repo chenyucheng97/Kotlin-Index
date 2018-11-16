@@ -89,7 +89,10 @@ DariuszBaciński 创建了一个 GitHub repo，其中有在 Kotlin 中实现的�
 - [Kotlin系列之let、with、run、apply、also函数的使用](https://blog.csdn.net/u013064109/article/details/78786646)
 
 &nbsp;&nbsp;
-#### 代理 delegate
+#### 代理 Delegation
+- [中文官网对于委托的介绍](https://www.kotlincn.net/docs/reference/delegation.html)
+- [Delegation(英文官网上的介绍)](http://kotlinlang.org/docs/reference/delegation.html)
+- [Delegated Properties(英文官网上的介绍)](http://kotlinlang.org/docs/reference/delegated-properties.html)
 - [Kotlin的属性代理你真的理解了吗](https://blog.csdn.net/u013064109/article/details/82794410)
 - [Kotlin学习之委托机制](https://blog.csdn.net/u014134488/article/details/51123805)
 
