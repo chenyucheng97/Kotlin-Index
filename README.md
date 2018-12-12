@@ -17,6 +17,7 @@
  - githubwing/GankClient-Kotlin wing写的Gank客户端： https://github.com/githubwing/GankClient-Kotlin
  - 官网给出的更多资源 ： https://kotlinlang.org/docs/resources.html
  - android develop官网推荐的kotlin学习资源  https://developer.android.com/kotlin/resources
+ - Kotlin-Java interop guide （包含了和Java互操作和Lint检查相关）https://developer.android.com/kotlin/interop
 
 &nbsp;
 &nbsp;
