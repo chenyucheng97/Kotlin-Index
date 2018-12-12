@@ -46,6 +46,13 @@
 - [官网对于注解的解释](https://www.kotlincn.net/docs/reference/annotations.html)
 - [Kotlin学习笔记——注解](https://blog.csdn.net/hjkcghjmguyy/article/details/73931877)
 
+
+&nbsp;
+#### 依赖注入
+- [Android开发从Dagger2迁移至Kodein的感受](https://blog.csdn.net/mq2553299/article/details/81909063)
+- [告别Dagger2，Android的Kotlin项目中使用Kodein进行依赖注入](https://blog.csdn.net/mq2553299/article/details/82258623)
+
+
 &nbsp;
 #### 设计模式
 - [Android快速转战Kotlin教程](https://blog.csdn.net/github_33304260/article/details/80343514)
